@@ -1,6 +1,5 @@
 <properties 
-    pageTitle="为你的Microsoft Azure订阅设置账单提醒" 
-    description="描述你如何才能设置Azure账单提醒来避免意外的账单。" 
+    pageTitle="随便翻翻啦." 
     services="" 
     documentationCenter="" 
     authors="vikdesai" 
@@ -16,7 +15,7 @@
     ms.date="06/01/2015" 
     ms.author="vikdesai"/>
 
-#为你的Microsoft Azure订阅设置新的账单提醒
+#Set up billing alerts for your Microsoft Azure subscriptions With Tests
 
 Are you concerned about how much you're spending each month for your Azure subscription?
 If you’re the account administrator for an Azure subscription, you can use the Azure Billing Alert Service to create customized billing alerts that help you monitor and manage billing activity for your Azure accounts.
@@ -55,7 +54,7 @@ image3
 [image1]: ./media/azure-billing-set-up-alerts/billingalert1.png 
 [image2]: ./media/azure-billing-set-up-alerts/billingalert2.png 
 [image3]: ./media/azure-billing-set-up-alerts/billingalerts3.png 
-ert for Billing Total or Monetary Credit, and the limit you set up. The date and time format is 24-hour Universal Time Coordinate (UTC) and the date is yyyy-mm-dd format. Click the plus sign for an alert in the list to edit it, or click the trash can to delete it.
+em and shows how many more you can set up. For each alert, you see the date and time it was sent, whether it’s an alert for Billing Total or Monetary Credit, and the limit you set up. The date and time format is 24-hour Universal Time Coordinate (UTC) and the date is yyyy-mm-dd format. Click the plus sign for an alert in the list to edit it, or click the trash can to delete it.
 
 [Image1]: ./media/azure-billing-set-up-alerts/billingalert1.png
 [Image2]: ./media/azure-billing-set-up-alerts/billingalert2.png
