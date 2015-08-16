@@ -67,16 +67,16 @@
     "7870bd0f16ccb4af222d22f69fb6f70a09206876": {
       "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
       "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ef2f3e3df010f60482e5ca20c359310332ebe640",
+      "TargetFilePath": "articles\\azure-billing-set-up-alerts.md",
+      "UpdatedDateTime": "2015-08-16T06:42:17.5268049Z"
     },
     "d3486ae9136e7856bc42212385ea797094475802": {
       "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
       "SourceFilePath": "articles\\test\\hello.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ef2f3e3df010f60482e5ca20c359310332ebe640",
+      "TargetFilePath": "articles\\test\\hello.md",
+      "UpdatedDateTime": "2015-08-16T06:42:17.5268049Z"
     }
   }
 }
