@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "df8a98a95c2afdee317dac607ba68ec8aa8ae319",
+  "LastProcessedCommit": "42ba423fbcb87cd62ccf1a41a7f93d579ea20a32",
   "Items": {
     "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
@@ -312,6 +312,13 @@
     "e57db804a6a6f3bf37667e07530dbd910e869cc9": {
       "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
       "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_6.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "3cb00b71002c7df248c1448b6304511d6d6dbe8a": {
+      "SourceFileCommit": "42ba423fbcb87cd62ccf1a41a7f93d579ea20a32",
+      "SourceFilePath": "articles\\architecture-overview.md",
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
